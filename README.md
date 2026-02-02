@@ -12,4 +12,3 @@ Key Features & Contributions:
 
 Skills Demonstrated:
 Semantic retrieval, vector search engineering, prompt engineering, grounding strategies, contextualized generation, and systems thinking.
-<img width="468" height="420" alt="image" src="https://github.com/user-attachments/assets/c3d4950d-fd36-4610-96f9-2ba2608d7539" />
